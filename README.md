@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anadimishra24
 - 👀 I’m interested in exploring the share market and diving into new experiences.
-- 🌱 I’m currently learning CPP and Python to expand my programming skills.
+- 🌱 I’m currently learning CPP and Java to expand my programming skills.
 - 💞️ I’m looking to collaborate on projects that fuel my pursuit of success and fulfillment.
 - 📫 How to reach me, You can connect with me on LinkedIn: https://www.linkedin.com/in/anadi-mishra-44a913205/
 - 😄 Pronouns: He/him
