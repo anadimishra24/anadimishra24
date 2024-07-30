@@ -1,4 +1,5 @@
-# 💫 Hi There!! This is Anadi Mishra 👋
+<!-- # 💫 Hi There!! This is Anadi Mishra 👋 -->
+# Hi There!! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  This is Anadi Mishra 💫
 🔭 I’m currently working at Capgemini<br><br>🌱 I’m currently learning Java, C/C++ and Python<br><br>👯 I’m looking to collaborate on projects that fuel my pursuit of success and fulfillment.<br><br>📝 I weekly write articles on linkedin https://www.linkedin.com/in/anadimishra07<br><br>💬 Ask me about life 🧬<br><br>📫 How to reach me mishraanadi24@gmail.com<br><br>⚡ Fun fact If you know, you know; if you don't, then you don't!
 
 
