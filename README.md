@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi There!! This is Anadi Mishra 👋
 🔭 I’m currently working at Capgemini<br><br>🌱 I’m currently learning Java, C/C++ and Python<br><br>👯 I’m looking to collaborate on projects that fuel my pursuit of success and fulfillment.<br><br>📝 I weekly write articles on linkedin https://www.linkedin.com/in/anadimishra07<br><br>💬 Ask me about life 🧬<br><br>📫 How to reach me mishraanadi24@gmail.com<br><br>⚡ Fun fact If you know, you know; if you don't, then you don't!
 
 
